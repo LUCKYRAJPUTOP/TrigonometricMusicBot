@@ -1,5 +1,5 @@
 # VibeXMusic TELEGRAM VC MUSIC BOT 
-[![AuraXMusic logo](https://telegra.ph/file/d21963be67c93841589ee.jpg)](https://t.me/AuraXNetwork)
+[![VibeXMusic logo](https://telegra.ph/file/578700d9311c004627126.jpg)](https://t.me/AuraXNetwork)
 
 
 -It is inspired from su music project and hamkercat's telegram voice bot.
