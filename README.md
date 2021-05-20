@@ -1,4 +1,4 @@
-# AuraXMusic TELEGRAM VC MUSIC BOT 
+# VibeXXMusic TELEGRAM VC MUSIC BOT 
 [![AuraXMusic logo](https://telegra.ph/file/d21963be67c93841589ee.jpg)](https://t.me/AuraXNetwork)
 
 
