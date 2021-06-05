@@ -14,20 +14,20 @@ async def start(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "Support⚡️", url="https://t.me/VibeXSupport"
+                        "Support⚡️", url="https://t.me/TrignometricSupport"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "Creater⚡️", url="https://t.me/VibeXOwner"
+                        "Creater⚡️", url="https://t.me/BeingLuckyRajput"
                     ),
                     InlineKeyboardButton(
-                        "VibeXZone⚡️", url="https://t.me/VibeXZone"
+                        "Assistant⚡️", url="https://t.me/TrignometricPlayer"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "Add To Your Group⚡️", url="https://t.me/VibeXMusicBot?startgroup=true"
+                        "Add To Your Group⚡️", url="https://t.me/TrignometricMusicBot?startgroup=true"
                     )
                 ]
             ]
