@@ -1,8 +1,8 @@
 {
-  "name": "VibeXMusic Bot",
+  "name": "TrigonometricMusic Bot",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/LuckyRajputOP/VibeXMusicBot",
+  "repository": "https://github.com/LuckyRajputOP/TrigonometricMusicBot",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
