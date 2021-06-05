@@ -1,5 +1,5 @@
-# VibeXMusic TELEGRAM VC MUSIC BOT 
-[![VibeXMusic logo](https://telegra.ph/file/578700d9311c004627126.jpg)](https://t.me/AuraXNetwork)
+# TRIGONOMETRIC TELEGRAM VC MUSIC BOT 
+[![VibeXMusic logo](https://telegra.ph/file/1a9cb27659279d6e7aab0.jpg)](https://t.me/AuraXNetwork)
 
 
 -It is inspired from su music project and hamkercat's telegram voice bot.
@@ -71,7 +71,7 @@ Copy `example.env` to `.env` and fill it with your credentials.
 
 ## The easiest way to deploy this Bot
 ### HEROKU
-<a href="https://heroku.com/deploy?template=https://github.com/AuraXNetwork/AuraXMusic"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<a href="https://heroku.com/deploy?template=https://github.com/LuckyRajputOP/TrigonometricMusicBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 ### StringSession
 
@@ -114,12 +114,11 @@ Copy `example.env` to `.env` and fill it with your credentials.
 
 - Inline search is also supported.
 
-* Bot Link:  <a href="https://t.me/AuraXMusic" alt="AuraXMusic"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-AuraXMusic-blue" /> </a>
-* News channel: <a  href="https://t.me/AuraXUpdates" alt="AuraXMusic Updates"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-AuraXMusic%20Updates-9cf" /> </a>
+* Bot Link:  <a href="https://t.me/TrigonometricMusicBot" alt="TrigonometricMusicBot"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-AuraXMusic-blue" /> </a>
+* News channel: <a  href="https://t.me/TrigonometricSupport" alt="TrigonometricMusic Updates"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-AuraXMusic%20Updates-9cf" /> </a>
 
 ## Support
-- [Channel](https://t.me/AuraXNetwork)
-- [Group](https://t.me/AuraXSupport)
+- [Group](https://t.me/TrigonometricSupport)
 
 ## Credits
 - [DaisyXMusic](https://github.com/TeamDaisyX/DaisyXMusic)
