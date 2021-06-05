@@ -22,12 +22,12 @@ async def start(_, message: Message):
                         "Creater⚡️", url="https://t.me/BeingLuckyRajput"
                     ),
                     InlineKeyboardButton(
-                        "Assistant⚡️", url="https://t.me/TrignometricPlayer"
+                        "Assistant⚡️", url="https://t.me/TrigonometricPlayer"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "Add To Your Group⚡️", url="https://t.me/TrignometricMusicBot?startgroup=true"
+                        "Add To Your Group⚡️", url="https://t.me/TrigonometricMusicBot?startgroup=true"
                     )
                 ]
             ]
