@@ -1,5 +1,5 @@
 # TRIGONOMETRIC TELEGRAM VC MUSIC BOT 
-[![VibeXMusic logo](https://telegra.ph/file/1a9cb27659279d6e7aab0.jpg)](https://t.me/AuraXNetwork)
+[![VibeXMusic logo](https://telegra.ph/file/1a9cb27659279d6e7aab0.jpg)](https://t.me/TrigonometricSupport)
 
 
 -It is inspired from su music project and hamkercat's telegram voice bot.
